@@ -1,0 +1,11 @@
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\bin\Debug\Calculadora Windows.exe.config
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\bin\Debug\Calculadora Windows.exe
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\bin\Debug\Calculadora Windows.pdb
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.AssemblyReference.cache
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora_Windows.Form1.resources
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora_Windows.Properties.Resources.resources
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.GenerateResource.cache
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.csproj.CoreCompileInputs.cache
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.exe
+C:\Users\mayara.cmaria\source\repos\Calculadora Windows\obj\Debug\Calculadora Windows.pdb
